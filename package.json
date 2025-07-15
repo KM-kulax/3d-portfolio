@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "host": "vite --host"
+  },
+  "devDependencies": {
+    "vite": "^4.5.9"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.121.5",
+    "@react-three/fiber": "^8.17.14",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.12.7",
+    "stats.js": "^0.17.0",
+    "three": "^0.149.0",
+    "three-stdlib": "^2.35.13"
+  }
+}
+
